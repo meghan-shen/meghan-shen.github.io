@@ -1,6 +1,6 @@
 title: Le monde de Meghan
 description: Things I enjoy, make, eat, and learn 
 theme: minima
+
 header_pages:
-- _posts/
-- about.md
+  - about.md
