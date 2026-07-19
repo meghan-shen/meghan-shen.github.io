@@ -16,9 +16,12 @@ This weekend, I visited the Sonoma Harvest Market and Cloverfield Organic Farm f
 Cloverfield Organic Farm was just about the coolest experience I have had this year! It's a U-pick farm and they grow so many sorts of fruits and veggies, some of which I had never even heard of, like olive berries, which are a type of tart stone fruit, and alpine strawberries, which are cream-colored and taste of pineapple. To be honest, I actually don't really know what veggies look like when they're growing in the ground, so it was shocking and cathartic to pull a beet out of the ground. Twas an amazing experience and I will be back. 
 
 Spoils of the day :) 
-<p align="center">
-  <img src="/assets/images/spoils.jpeg" width="700">
-</p>
+<figure style="text-align:center;">
+  <img src="/assets/images/spoils.jpeg" width="700" alt="Spoils of the day">
+  <figcaption>
+    Golden beets, fennel, pattypan squash, olive berries, wild plums, shishito peppers, alpine strawberries, asian pears, lemon verbena, and curly kale!
+  </figcaption>
+</figure>
 
 
 
