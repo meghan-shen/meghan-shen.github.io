@@ -8,15 +8,15 @@ Starting a blog post is so awkward. I take so long figuring out how to word thin
 
 This weekend, I visited the Sonoma Harvest Market and Cloverfield Organic Farm for the first time. The Harvest Market sells produce that are grown in a 6 acre plot of land that is run by volunteers and local residents. You can walk around the area and visit the different gardens. The sunflowers and zinnias looked amazing this time of year. 
 <div style="display: flex; gap: 12px;">
-  <img src="/assets/images/sunflower.jpg" width="49%">
-  <img src="/assets/images/zinnia.jpg" width="49%">
+  <img src="/assets/images/sunflower.jpeg" width="49%">
+  <img src="/assets/images/zinnia.jpeg" width="49%">
 </div>
 
 Cloverfield Organic Farm was just about the coolest experience I have had this year. It's a U-pick farm and they grow so many sorts of fruits and veggies, some of which I had never even heard of, like olive berries, which are a type of tart stone fruit, and alpine strawberries, which are cream-colored and taste of pineapple. To be honest, I actually don't really know what veggies look like when they're growing in the ground, so it was shocking and cathartic to pull a beet out of the ground. Twas an amazing experience and I will be back. 
 
 Spoils of the day :) 
 <p align="center">
-  <img src="/assets/images/spoils.jpg" width="700">
+  <img src="/assets/images/spoils.jpeg" width="700">
 </p>
 
 
