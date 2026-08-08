@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Museum Junkie in the Midwest"
+title: "Museum junkie in the midwest"
 date: 2026-08-07
 ---
 
@@ -15,9 +15,9 @@ I also wanted to preface that visiting the Midwest is a recent phenomenon for me
 So many rooms full of specimens, rocks, dioramas, and anthropological relics. Anything you’ve ever seen in a zoology book, they’ve got it all. Dinosaurs galore. We arrived at roughly at 10 am and it took until the museum closing at 5 pm to go through all the halls. Towards the end, we were speed walking, trying to take as many photos and videos as we could. It was phenomenal. The amount of taxidermied specimens was unmatched by any museum (La Grande Galerie de l'Évolution in Paris comes very close though). 
 
 <div style="display: flex; gap: 12px; align-items: center;">
-  <img src="/assets/images/field koala.jpg" style="height: 250px; width: auto;">
-  <img src="/assets/images/field islands.jpg" style="height: 250px; width: auto;">
-  <img src="/assets/images/field plants.jpg" style="height: 250px; width: auto;">
+  <img src="/assets/images/field koala.jpeg" style="height: 250px; width: auto;">
+  <img src="/assets/images/field islands.jpeg" style="height: 250px; width: auto;">
+  <img src="/assets/images/field plants.jpeg" style="height: 250px; width: auto;">
 </div>
 
 Many of my close friends and family think I enjoy museums because I like looking at dead things. However, it’s not only the ethical taxidermy that fills me with a sense of wonder (that shall be a whole other blog post). I enjoy specimens more when they are in a diorama that mimics the natural habitat. In fact, I enjoy habitat dioramas when there isn't any taxidermy at all. So I guess what I love is the curation itself. 
@@ -33,7 +33,7 @@ This was the pièce de résistance I never knew was waiting for me at the end of
 Here are some highlights of the museum, according to me: When you enter the first floor of the museum, you are greeted by “A Sense of Wonder”, a Victorian-era hodge podge display that shows how museums used to spark this sense of wonder in the past. It is breathtaking. Behind it is the European Village and Old Milwaukee: two entire walkthrough exhibits featuring old timey buildings and houses that you can actually look into to see how people lived in the past. Such cute displays and very realistic wax people. And of course I need to mention the rainforest, there are so many cool specimens, the lighting is not too dark, and I got to see a kinkajou and margay cat up close. There’s also an Indiana Jones-like camp display with a wax scientist analyzing field work. The first floor also houses the country’s very first natural habitat diorama! Before this innovation, taxidermied specimens were typically displayed on their own, without a surrounding scene.
 
 <div style="display: flex; gap: 12px; align-items: center;">
-  <img src="/assets/images/mpm first diorama.jpg" style="height: 250px; width: auto;">
+  <img src="/assets/images/mpm first diorama.jpeg" style="height: 250px; width: auto;">
 </div>
 
 The second and third floor exhibits are organized by regions of the world. It felt like I was globetrotting, keeping in mind of course, that this museum was curated by the Western perspective and to take cultural depictions with a grain of salt. Still, I think it did a great job of respectfully depicting different countries as interconnected ecosystems. Notable dioramas were the second floor buffalo run, the third floor lion hunt, and the third floor Guatemalan marketplace. 
@@ -41,6 +41,6 @@ The second and third floor exhibits are organized by regions of the world. It fe
 As someone who has always flocked to the animal exhibits (pun intended), this museum made me think about what it means to be human. Humans make cool things- like museums. The Milwaukee Public museum is everything I love about museums: thoughtful curation that renews my sense of wonder. 
 
 <div style="display: flex; gap: 12px; align-items: center;">
-  <img src="/assets/images/mpm sense of wonder.jpg" style="height: 250px; width: auto;">
-  <img src="/assets/images/mpm me.jpg" style="height: 250px; width: auto;">
+  <img src="/assets/images/mpm sense of wonder.jpeg" style="height: 250px; width: auto;">
+  <img src="/assets/images/mpm me.jpeg" style="height: 250px; width: auto;">
 </div>
