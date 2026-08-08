@@ -14,10 +14,10 @@ I also wanted to preface that visiting the Midwest is a recent phenomenon for me
 
 So many rooms full of specimens, rocks, dioramas, and anthropological relics. Anything you’ve ever seen in a zoology book, they’ve got it all. Dinosaurs galore. We arrived at roughly at 10 am and it took until the museum closing at 5 pm to go through all the halls. Towards the end, we were speed walking, trying to take as many photos and videos as we could. It was phenomenal. The amount of taxidermied specimens was unmatched by any museum (La Grande Galerie de l'Évolution in Paris comes very close though). 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 20px 0; flex-wrap: nowrap;">
-  <img src="/assets/images/field koala.jpeg" style="height: 210px; width: auto;">
-  <img src="/assets/images/field islands.jpg" style="height: 210px; width: auto;">
-  <img src="/assets/images/field plants.jpeg" style="height: 210px; width: auto;">
+<div style="display: flex; width: 100%; gap: 10px; margin: 20px 0;">
+  <img src="/assets/images/field koala.jpeg" style="width: calc((100% - 20px) / 3); height: auto; object-fit: contain;">
+  <img src="/assets/images/field islands.jpg" style="width: calc((100% - 20px) / 3); height: auto; object-fit: contain;">
+  <img src="/assets/images/field plants.jpeg" style="width: calc((100% - 20px) / 3); height: auto; object-fit: contain;">
 </div>
 
 Many of my close friends and family think I enjoy museums because I like looking at dead things. However, it’s not only the ethical taxidermy that fills me with a sense of wonder (that shall be a whole other blog post). I enjoy specimens more when they are in a diorama that mimics the natural habitat. In fact, I enjoy habitat dioramas when there isn't any taxidermy at all. So I guess what I love is the curation itself. 
@@ -32,7 +32,7 @@ This was the pièce de résistance I never knew was waiting for me at the end of
 
 Here are some highlights of the museum, according to me: When you enter the first floor of the museum, you are greeted by “A Sense of Wonder”, a Victorian-era hodge podge display that shows how museums used to spark this sense of wonder in the past. It is breathtaking. Behind it is the European Village and Old Milwaukee: two entire walkthrough exhibits featuring old timey buildings and houses that you can actually look into to see how people lived in the past. Such cute displays and very realistic wax people. And of course I need to mention the rainforest, there are so many cool specimens, the lighting is not too dark, and I got to see a kinkajou and margay cat up close. There’s also an Indiana Jones-like camp display with a wax scientist analyzing field work. The first floor also houses the country’s very first natural habitat diorama! Before this innovation, taxidermy specimens were typically displayed on their own, without a surrounding scene.
 
-<div style="text-align: center; margin: 20px 0;">
+<div style="display: flex; width: 100%; gap: 10px; margin: 20px 0;">
   <img src="/assets/images/mpm first diorama.jpeg" style="height: 500px; width: auto;">
   <figcaption>The first natural habitat diorama in the country.</figcaption>
 </div>
@@ -41,7 +41,7 @@ The second and third floor exhibits are organized by regions of the world. It fe
 
 As someone who has always flocked to the animal exhibits (pun intended), this museum made me think about what it means to be human. Humans make cool things- like museums. The Milwaukee Public museum is everything I love about museums: thoughtful curation that renews my sense of wonder. 
 
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/mpm sense of wonder.jpeg" style="height: 300px; width: auto;">
-  <img src="/assets/images/mpm me.jpeg" style="height: 300px; width: auto;">
+<div style="display: flex; width: 100%; gap: 10px; margin: 20px 0;">
+  <img src="/assets/images/mpm sense of wonder.jpeg" style="width: calc((100% - 20px) / 2); height: auto; object-fit: contain;">
+  <img src="/assets/images/mpm me.jpeg" style="width: calc((100% - 20px) / 2); height: auto; object-fit: contain;">
 </div>
