@@ -32,7 +32,7 @@ This was the pièce de résistance I never knew was waiting for me at the end of
 
 Here are some highlights of the museum, according to me: When you enter the first floor of the museum, you are greeted by “A Sense of Wonder”, a Victorian-era hodge podge display that shows how museums used to spark this sense of wonder in the past. It is breathtaking. Behind it is the European Village and Old Milwaukee: two entire walkthrough exhibits featuring old timey buildings and houses that you can actually look into to see how people lived in the past. Such cute displays and very realistic wax people. And of course I need to mention the rainforest, there are so many cool specimens, the lighting is not too dark, and I got to see a kinkajou and margay cat up close. There’s also an Indiana Jones-like camp display with a wax scientist analyzing field work. The first floor also houses the country’s very first natural habitat diorama! Before this innovation, taxidermied specimens were typically displayed on their own, without a surrounding scene.
 
-<div style="display: flex; gap: 12px; align-items: center;">
+<div style="text-align: center; margin: 20px 0;">
   <img src="/assets/images/mpm first diorama.jpeg" style="height: 350px; width: auto;">
 </div>
 
@@ -40,7 +40,7 @@ The second and third floor exhibits are organized by regions of the world. It fe
 
 As someone who has always flocked to the animal exhibits (pun intended), this museum made me think about what it means to be human. Humans make cool things- like museums. The Milwaukee Public museum is everything I love about museums: thoughtful curation that renews my sense of wonder. 
 
-<div style="display: flex; gap: 12px; align-items: center;">
+<div style="text-align: center; margin: 20px 0;">
   <img src="/assets/images/mpm sense of wonder.jpeg" style="height: 250px; width: auto;">
   <img src="/assets/images/mpm me.jpeg" style="height: 250px; width: auto;">
 </div>
