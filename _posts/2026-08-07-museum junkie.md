@@ -15,9 +15,9 @@ I also wanted to preface that visiting the Midwest is a recent phenomenon for me
 So many rooms full of specimens, rocks, dioramas, and anthropological relics. Anything you’ve ever seen in a zoology book, they’ve got it all. Dinosaurs galore. We arrived at roughly at 10 am and it took until the museum closing at 5 pm to go through all the halls. Towards the end, we were speed walking, trying to take as many photos and videos as we could. It was phenomenal. The amount of taxidermied specimens was unmatched by any museum (La Grande Galerie de l'Évolution in Paris comes very close though). 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 20px 0; flex-wrap: nowrap;">
-  <img src="/assets/images/field koala.jpeg" style="height: 200px; width: auto;">
-  <img src="/assets/images/field islands.jpg" style="height: 200px; width: auto;">
-  <img src="/assets/images/field plants.jpeg" style="height: 200px; width: auto;">
+  <img src="/assets/images/field koala.jpeg" style="height: 210px; width: auto;">
+  <img src="/assets/images/field islands.jpg" style="height: 210px; width: auto;">
+  <img src="/assets/images/field plants.jpeg" style="height: 210px; width: auto;">
 </div>
 
 Many of my close friends and family think I enjoy museums because I like looking at dead things. However, it’s not only the ethical taxidermy that fills me with a sense of wonder (that shall be a whole other blog post). I enjoy specimens more when they are in a diorama that mimics the natural habitat. In fact, I enjoy habitat dioramas when there isn't any taxidermy at all. So I guess what I love is the curation itself. 
@@ -42,6 +42,6 @@ The second and third floor exhibits are organized by regions of the world. It fe
 As someone who has always flocked to the animal exhibits (pun intended), this museum made me think about what it means to be human. Humans make cool things- like museums. The Milwaukee Public museum is everything I love about museums: thoughtful curation that renews my sense of wonder. 
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/mpm sense of wonder.jpeg" style="height: 250px; width: auto;">
-  <img src="/assets/images/mpm me.jpeg" style="height: 250px; width: auto;">
+  <img src="/assets/images/mpm sense of wonder.jpeg" style="height: 300px; width: auto;">
+  <img src="/assets/images/mpm me.jpeg" style="height: 300px; width: auto;">
 </div>
