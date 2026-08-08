@@ -14,7 +14,7 @@ I also wanted to preface that visiting the Midwest is a recent phenomenon for me
 
 So many rooms full of specimens, rocks, dioramas, and anthropological relics. Anything you’ve ever seen in a zoology book, they’ve got it all. Dinosaurs galore. We arrived at roughly at 10 am and it took until the museum closing at 5 pm to go through all the halls. Towards the end, we were speed walking, trying to take as many photos and videos as we could. It was phenomenal. The amount of taxidermied specimens was unmatched by any museum (La Grande Galerie de l'Évolution in Paris comes very close though). 
 
-<div style="display: flex; gap: 12px; align-items: center;">
+<div style="text-align: center; margin: 20px 0;">
   <img src="/assets/images/field koala.jpeg" style="height: 250px; width: auto;">
   <img src="/assets/images/field islands.jpg" style="height: 250px; width: auto;">
   <img src="/assets/images/field plants.jpeg" style="height: 250px; width: auto;">
@@ -30,10 +30,11 @@ The feeling I get at a natural history museum is close to child-like awe. It’s
 
 This was the pièce de résistance I never knew was waiting for me at the end of this trip. It has classic taxidermy exhibits, it has many historical relics, but what this museum does differently lies in how it is curated: natural history is intertwined with human civilization. Instead of having a hall of North American mammals and separate anthropological sections, this museum showcases an entire diorama of the Inuit Native Americans along with their sled dogs after a seal hunt, showing that, in history, we’ve both coexisted with animals and utilized them as a resource. I like how the exhibits flow together, allowing the artifacts to converse and tell a unifying story. 
 
-Here are some highlights of the museum, according to me: When you enter the first floor of the museum, you are greeted by “A Sense of Wonder”, a Victorian-era hodge podge display that shows how museums used to spark this sense of wonder in the past. It is breathtaking. Behind it is the European Village and Old Milwaukee: two entire walkthrough exhibits featuring old timey buildings and houses that you can actually look into to see how people lived in the past. Such cute displays and very realistic wax people. And of course I need to mention the rainforest, there are so many cool specimens, the lighting is not too dark, and I got to see a kinkajou and margay cat up close. There’s also an Indiana Jones-like camp display with a wax scientist analyzing field work. The first floor also houses the country’s very first natural habitat diorama! Before this innovation, taxidermied specimens were typically displayed on their own, without a surrounding scene.
+Here are some highlights of the museum, according to me: When you enter the first floor of the museum, you are greeted by “A Sense of Wonder”, a Victorian-era hodge podge display that shows how museums used to spark this sense of wonder in the past. It is breathtaking. Behind it is the European Village and Old Milwaukee: two entire walkthrough exhibits featuring old timey buildings and houses that you can actually look into to see how people lived in the past. Such cute displays and very realistic wax people. And of course I need to mention the rainforest, there are so many cool specimens, the lighting is not too dark, and I got to see a kinkajou and margay cat up close. There’s also an Indiana Jones-like camp display with a wax scientist analyzing field work. The first floor also houses the country’s very first natural habitat diorama! Before this innovation, taxidermy specimens were typically displayed on their own, without a surrounding scene.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/mpm first diorama.jpeg" style="height: 350px; width: auto;">
+  <img src="/assets/images/mpm first diorama.jpeg" style="height: 500px; width: auto;">
+  <figcaption>The first natural habitat diorama in the country.</figcaption>
 </div>
 
 The second and third floor exhibits are organized by regions of the world. It felt like I was globetrotting, keeping in mind of course, that this museum was curated by the Western perspective and to take cultural depictions with a grain of salt. Still, I think it did a great job of respectfully depicting different countries as interconnected ecosystems. Notable dioramas were the second floor buffalo run, the third floor lion hunt, and the third floor Guatemalan marketplace. 
