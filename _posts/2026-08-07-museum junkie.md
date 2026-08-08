@@ -32,10 +32,12 @@ This was the pièce de résistance I never knew was waiting for me at the end of
 
 Here are some highlights of the museum, according to me: When you enter the first floor of the museum, you are greeted by “A Sense of Wonder”, a Victorian-era hodge podge display that shows how museums used to spark this sense of wonder in the past. It is breathtaking. Behind it is the European Village and Old Milwaukee: two entire walkthrough exhibits featuring old timey buildings and houses that you can actually look into to see how people lived in the past. Such cute displays and very realistic wax people. And of course I need to mention the rainforest, there are so many cool specimens, the lighting is not too dark, and I got to see a kinkajou and margay cat up close. There’s also an Indiana Jones-like camp display with a wax scientist analyzing field work. The first floor also houses the country’s very first natural habitat diorama! Before this innovation, taxidermy specimens were typically displayed on their own, without a surrounding scene.
 
-<div style="display: flex; width: 100%; gap: 10px; margin: 20px 0;">
+<figure style="text-align: center; margin: 20px 0;">
   <img src="/assets/images/mpm first diorama.jpeg" style="height: 500px; width: auto;">
-  <figcaption>The first natural habitat diorama in the country.</figcaption>
-</div>
+  <figcaption style="margin-top: 8px;">
+    The first natural habitat diorama in the country.
+  </figcaption>
+</figure>
 
 The second and third floor exhibits are organized by regions of the world. It felt like I was globetrotting, keeping in mind of course, that this museum was curated by the Western perspective and to take cultural depictions with a grain of salt. Still, I think it did a great job of respectfully depicting different countries as interconnected ecosystems. Notable dioramas were the second floor buffalo run, the third floor lion hunt, and the third floor Guatemalan marketplace. 
 
